@@ -1,4 +1,4 @@
-# 📘 **Prácticas de SQL - MySQL**
+# 📘 **Prácticas de SQL - MySQL - MySQL Workbench**
 
 Este repositorio contiene mis prácticas de SQL realizadas en la facultad, usando **MySQL** como sistema de gestión de bases de datos.
 
